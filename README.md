@@ -68,7 +68,7 @@ The Light Up Piano Buttons module is a part of the Space-Themed Sensory Table de
 - The module is powered by a rechargeable battery, ensuring portability and ease of use.
 
 ## Source Code
-The Arduino source code can be found in the [GitHub repository](https://github.com/OkimaSha/LightButtonModuleSensoryTable/blob/main/Ard-R3-Code.ino).
+The Arduino source code can be found in the [[GitHub repository](https://github.com/OkimaSha/LightButtonModuleSensoryTable/blob/main/Ard-R3-Code.ino).]
 
 ## Acknowledgements
 - Ezra Reynolds for providing crucial information from Signal Centers.
