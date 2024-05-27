@@ -27,7 +27,7 @@ The Light Up Piano Buttons module is a part of the Space-Themed Sensory Table de
 - **Power Supply**: 12V power for LEDs and 5V power for the Arduino.
 
 ## Circuit Schematic
-![Circuit Schematic](path/to/circuit-schematic.png)
+![Circuit Schematic]([path/to/circuit-schematic.png](https://github.com/OkimaSha/Sensory-Table-Simon-Says-Buttons/blob/main/Circuit%20Diagram))
 
 ## Build Instructions
 
@@ -68,14 +68,10 @@ The Light Up Piano Buttons module is a part of the Space-Themed Sensory Table de
 - The module is powered by a rechargeable battery, ensuring portability and ease of use.
 
 ## Source Code
-The Arduino source code can be found in the [GitHub repository](https://github.com/OkimaSha/LightButtonModuleSensoryTable/blob/main/PianoWithSimonSaysWSoundWbuiltInSwitcV2.ino).
+The Arduino source code can be found in the [GitHub repository](https://github.com/OkimaSha/LightButtonModuleSensoryTable/blob/main/Ard-R3-Code.ino).
 
 ## Acknowledgements
 - Ezra Reynolds for providing crucial information from Signal Centers.
 - Benjamin Swords for assisting with the CNC machine operations.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any questions or further information, please contact Grant Powell at [grant.powell@example.com](mailto:grant.powell@example.com).
